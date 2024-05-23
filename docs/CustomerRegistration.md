@@ -253,8 +253,6 @@ private void search() {
 
 #### Confirmation Message
 
-
-
 ## Summary
 
 The `CustomerManagementForm` class is an essential component of the GUI application responsible for managing customer information. It extends the `SimpleForm` class and integrates functionalities for adding, updating, and searching for customers.
