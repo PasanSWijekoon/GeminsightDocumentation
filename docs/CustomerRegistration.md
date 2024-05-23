@@ -241,19 +241,19 @@ private void search() {
 
 #### Light Theme Interface
 
-![Light Theme Interface](lighttheme.png)
+
 
 #### Dark Theme Interface
 
-![Dark Theme Interface](darktheme.png)
+
 
 #### Error Handling
 
-![Error Handling](errorhandling.png)
+
 
 #### Confirmation Message
 
-![Confirmation Message](confirmationmessage.png)
+
 
 ## Summary
 
