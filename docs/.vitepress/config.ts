@@ -40,8 +40,8 @@ export default {
         text: "Section B",
         collapsible: false,
         items: [
-          { text: "Customer Registration", link: "/Customer-Registration" },
-          { text: "Getting Started", link: "/getting-started" },
+          { text: "Customer Registration", link: "/CustomerRegistration" },
+          { text: "Getting Started", link: "/gettingstarted" },
         ],
       },
       {
@@ -49,7 +49,7 @@ export default {
         collapsible: true,
         items: [
           { text: "Introduction", link: "/introduction" },
-          { text: "Getting Started", link: "/getting-started" },
+          { text: "Getting Started", link: "/gettingstarted" },
         ],
       },
     ],
