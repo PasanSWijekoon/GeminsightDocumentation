@@ -6,7 +6,7 @@ hero:
   name: Geminsight
   text: Gem Certificate Generator.
   image:
-    src: /logo.png
+    src: /logo2.png
     alt: Gem logo
   tagline: Project Documentation Version 1.22
   actions:
@@ -20,17 +20,18 @@ hero:
 # Features section
 features:
   - icon: ⚡️
-    title: Geminsight, The DX that can't be beat
-    details: Lorem ipsum...
+    title: Geminsight, The Certification System that can't be beat
+    details: Experience the ultimate gem certification process with Geminsight, a tool designed to streamline your operations and boost efficiency. Geminsight offers unparalleled speed, an intuitive interface, and a suite of powerful features that cater to gemologists and administrative staff alike. Whether you're handling a single gem or multiple submissions, Geminsight provides the tools you need to certify gemstones with ease and accuracy.
+
   - icon: 🎉
-    title: Power of Vue meets Markdown
-    details: Lorem ipsum...
+    title: Power of Integration meets Efficiency
+    details: Harness the best of both worlds with the seamless integration of Vue.js and Markdown. This powerful combination allows you to build dynamic, data-driven applications while maintaining the simplicity and readability of Markdown. Enjoy the flexibility of Vue's reactive components and the ease of writing content in Markdown, making your development process more efficient and enjoyable.
   - icon: 🔥
     title: Simple and minimal, always
-    details: Lorem ipsum...
+    details: Simplicity and minimalism are at the heart of our design philosophy. We believe in stripping away the unnecessary to focus on what truly matters. Our tools and interfaces are designed to be clean, intuitive, and distraction-free, ensuring that you can work efficiently without the clutter. Experience the elegance of minimalism and the power it brings to your workflow.
   - icon: 🎀
     title: Stylish and cool
-    details: Lorem ipsum...
+    details: Bring style and flair to your projects with our range of stylish and cool features. Our design tools are crafted to help you create visually stunning applications that stand out from the crowd. With a variety of themes, customizations, and design elements, you can express your unique style and make a lasting impression. Elevate your projects with a touch of cool sophistication.
 
 # Meta property
 head:

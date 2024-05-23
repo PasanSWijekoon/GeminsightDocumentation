@@ -21,9 +21,9 @@ export default {
     ],
     // Social Icons
     socialLinks: [
-      { icon: "github", link: "https://github.com/Evavic44/adocs" },
-      { icon: "twitter", link: "https://twitter.com/victorekea" },
-      { icon: "discord", link: "..." },
+      { icon: "github", link: "https://github.com/PasanSWijekoon" },
+      { icon: "twitter", link: "https://x.com/pasan_wijekoon" },
+      { icon: "instagram", link: "https://www.instagram.com/pasanwijekoon" },
       
     ],
     // Sidebar
