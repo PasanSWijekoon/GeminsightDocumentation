@@ -240,19 +240,19 @@ private void search() {
 ### GUI
 
 #### Light Theme Interface
-![customerregiser1](customerregiser2.png)
+![customerregiser1](/customerregiser2.png)
 
 
 #### Dark Theme Interface
 
-![customerregiser2](customerregiser1.png)
+![customerregiser2](/customerregiser1.png)
 
 #### Error Handling
 
-![customerregiser3](customerregiser4.png)
+![customerregiser3](/customerregiser4.png)
 
 #### Confirmation Message
-![customerregiser4](customerregiser3.png)
+![customerregiser4](/customerregiser3.png)
 
 ## Summary
 
