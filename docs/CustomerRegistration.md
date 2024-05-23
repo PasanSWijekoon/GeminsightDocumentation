@@ -240,7 +240,7 @@ private void search() {
 ### GUI
 
 #### Light Theme Interface
-![lighttheme](lighttheme.png)
+![lighttheme](darktheme.png)
 
 
 #### Dark Theme Interface
