@@ -237,22 +237,7 @@ private void search() {
 ```
 
 ## GUI
-### GUI
 
-#### Light Theme Interface
-![lighttheme](darktheme.png)
-
-
-#### Dark Theme Interface
-
-![darktheme](darktheme.png)
-
-#### Error Handling
-
-![errorhandling](errorhandling.png)
-
-#### Confirmation Message
-![confirmationmessage](confirmationmessage.png)
 
 ## Summary
 
