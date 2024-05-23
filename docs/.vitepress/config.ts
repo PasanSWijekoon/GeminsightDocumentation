@@ -16,7 +16,7 @@ export default {
     nav: [
       { text: "About", link: "/about" },
       { text: "Contact", link: "/contact" },
-      { text: "Guide", link: "/guide" },
+     // { text: "Guide", link: "/guide" },
       
     ],
     // Social Icons
@@ -29,11 +29,11 @@ export default {
     // Sidebar
     sidebar: [
       {
-        text: "Section A",
+        text: "Project Overview",
         collapsible: true,
         items: [
           { text: "Introduction", link: "/introduction" },
-          { text: "Getting Started", link: "/get-started" },
+          { text: "Getting Started", link: "/getstarted" },
         ],
       },
       {
