@@ -14,14 +14,101 @@ GemInsight is an innovative Java Swing Desktop application designed to revolutio
 - **Sales Tracking:** Track your sales and analyze trends.
 - **Customer Management:** Manage your customer information effectively.
 
-## Use Cases
+## Use Case
 
-- **Gemstone Businesses:** Whether you're a small-scale gemstone retailer or a large wholesaler, GemInsight is tailored to meet your specific needs and help you succeed in today's competitive market.
+### Main System Use case
 
-## Get Started
+![Main](img/FullSystem.png)
 
-Experience the power of GemInsight and take your gemstone business to new heights.
+- **Description:** Whether you're a small-scale gemstone retailer or a large wholesaler, GemInsight is tailored to meet your specific needs and help you succeed in today's competitive market.
 
-## Contact Us
 
-For inquiries or support, please contact us at [support@geminsight.com](mailto:support@geminsight.com).
+**Actors:** 
+- Cashier: Represents the personnel responsible for handling customer transactions and managing orders.
+- Customer: Represents the individuals who interact with the system to purchase gemstones, provide information, and receive services.
+- Lab Personnel: Represents the individuals responsible for creating lab reports for each gemstone.
+- Supervisor: Represents the personnel responsible for supervising user registrations, managing audit logs, and overseeing the generation of certificates and reports.
+
+**Use:** 
+
+- Create Gem Order (UC2): Allows the cashier to create orders for gemstones on behalf of customers.
+- Create Lab Report For Each Gem (UC3): Enables lab personnel to create detailed lab reports for each gemstone based on their inspection.
+- Generate Certificates (UC4): Allows the supervisor to generate certificates for authenticated gemstones.
+- Register Users (UC5): Enables the supervisor to register users, including cashiers and lab personnel, into the system.
+- Audit Logs (UC6): Provides the supervisor with access to system logs for monitoring user activities and system events.
+- Collect Payments (UC7): Allows the cashier to collect payments from customers for gemstone purchases and services.
+- Reports (UC8): Provides the supervisor with the ability to generate various reports related to gemstone transactions and system usage.
+- Print Invoice (UC12): Enables the cashier to print invoices for customers detailing their purchases and payments.
+- Provide Information (UC9): Allows customers to provide necessary information to the cashier during transactions.
+- Register Customer (UC10): Enables the cashier to register new customers into the system for future transactions.
+- Receive Text Message (UC11): Sends text messages to customers to notify them about their registration status and other relevant information.
+
+
+### Register Customer
+
+![CustomerRegister](img/CustomerRegister.png)
+
+### Create Gem Order
+
+![Creategemorder](img/Creategemorder.png)
+
+### Create Lab Report
+
+![CreateLabReportForEachGem](img/CreateLabReportForEachGem.png)
+
+### Generate Certificates
+
+![Certificates](img/Certificates.png)
+
+### Register Users
+
+![Userregister](img/RegisterUsers.png)
+
+
+## Activity Diagram Scenarios
+
+Here's a list of potential scenarios for activity diagrams in the Geminsight system:
+
+1. **Customer Registration Process:**
+   - Customer provides personal information to the cashier.
+   - Cashier registers the customer into the system.
+   - System sends a confirmation message to the registered customer.
+
+2. **Gem Order Creation Process:**
+   - Cashier creates a new gem order for a customer.
+   - Cashier adds gem details to the order.
+   - Cashier calculates the total payment for the order.
+
+3. **Lab Report Creation Process:**
+   - Lab personnel receive gems for inspection.
+   - Lab personnel create a lab report for each gem.
+   - Lab personnel mark the lab report as complete.
+
+4. **Certificate Generation Process:**
+   - Supervisor initiates the certificate generation process.
+   - System generates certificates for authenticated gemstones.
+
+5. **User Registration Process:**
+   - Supervisor registers new users (cashiers, lab personnel) into the system.
+
+6. **Audit Log Monitoring Process:**
+   - Supervisor reviews audit logs to monitor user activities and system events.
+
+7. **Payment Collection Process:**
+   - Cashier collects payments from customers for gemstone purchases and services.
+
+8. **Report Generation Process:**
+   - Supervisor generates various reports related to gemstone transactions and system usage.
+
+9. **Invoice Printing Process:**
+   - Cashier prints invoices for customers detailing their purchases and payments.
+
+10. **Customer Information Provision:**
+   - Customers provide necessary information to cashiers during transactions.
+
+11. **Customer Registration Confirmation:**
+   - System sends a confirmation message to the registered customer.
+
+12. **Certificate Authentication Process:**
+   - Customer scans the QR code on the certificate to verify its authenticity.
+   - System validates the certificate and displays its details to the customer.

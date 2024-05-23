@@ -37,11 +37,11 @@ export default {
         ],
       },
       {
-        text: "Section B",
+        text: "Main Activities",
         collapsible: false,
         items: [
           { text: "Customer Registration", link: "/CustomerRegistration" },
-          { text: "Getting Started", link: "/gettingstarted" },
+          { text: "Create Orders", link: "/orders" },
         ],
       },
       {

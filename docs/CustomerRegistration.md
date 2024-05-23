@@ -240,18 +240,19 @@ private void search() {
 ### GUI
 
 #### Light Theme Interface
-
+![lighttheme](lighttheme.png)
 
 
 #### Dark Theme Interface
 
-
+![darktheme](darktheme.png)
 
 #### Error Handling
 
-
+![errorhandling](errorhandling.png)
 
 #### Confirmation Message
+![confirmationmessage](confirmationmessage.png)
 
 ## Summary
 
