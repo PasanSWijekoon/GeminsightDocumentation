@@ -58,10 +58,7 @@ export default {
       prev: false,
       next: true,
     },
-    editLink: {
-      pattern: 'https://github.com/Evavic44/adocs/edit/main/docs/:path',
-      text: 'Edit this page on GitHub'
-    },
+  
     footer: {
       message: "Released under the MIT License.",
       copyright: "Copyright © 2024-present Adocs",
