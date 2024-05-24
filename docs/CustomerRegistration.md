@@ -2,7 +2,7 @@
 sidebar: auto
 ---
 
-# Customer Registration
+# Customer LOgin
 
 ## Description
 
