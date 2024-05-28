@@ -40,16 +40,23 @@ export default {
         text: "Main Activities",
         collapsible: false,
         items: [
+          { text: "Login", link: "/CustomerRegistration" },
           { text: "Customer Registration", link: "/CustomerRegistration" },
-          { text: "Create Orders", link: "/orders" },
+          { text: "Create Gem Order", link: "/CustomerRegistration" },
+          { text: "Create Lab Report", link: "/CustomerRegistration" },
+          { text: "Generate Certificate", link: "/CustomerRegistration" },
+         
         ],
       },
       {
-        text: "Section C",
+        text: "Other Activities",
         collapsible: true,
         items: [
           { text: "Introduction", link: "/introduction" },
           { text: "Getting Started", link: "/gettingstarted" },
+          { text: "Complete Pending Payment", link: "/CustomerRegistration" },
+          { text: "Reports & Analytics", link: "/CustomerRegistration" },
+          { text: "Settings", link: "/orders" },
         ],
       },
     ],
