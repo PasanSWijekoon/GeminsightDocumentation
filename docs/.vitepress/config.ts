@@ -41,6 +41,7 @@ export default {
         collapsible: false,
         items: [
           { text: "Login", link: "/login" },
+          { text: "Dash Board", link: "/dashborad" },
           { text: "Customer Registration", link: "/CustomerRegistration" },
           { text: "Create Gem Order", link: "/" },
           { text: "Create Lab Report", link: "/" },
