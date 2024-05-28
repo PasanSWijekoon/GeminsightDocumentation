@@ -13,7 +13,7 @@
 ### Software:
 
 - **Operating System:** Windows 10, macOS, or Linux
-- **Java Development Kit (JDK):** 8 or higher
+- **Java Development Kit (JDK):** 17 or higher
 - **IDE (Integrated Development Environment):** IntelliJ IDEA, Eclipse, or NetBeans
 - **MySQL Database:** (optional, depending on project requirements)
 
