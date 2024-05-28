@@ -6,6 +6,63 @@
 
 GemInsight is an innovative Java Swing Desktop application designed to revolutionize the way gemstone businesses manage their operations. With its intuitive user interface and powerful features, GemInsight streamlines various aspects of gemstone management, including inventory tracking, sales management, reporting, and more.
 
+## Objectives
+
+- To provide a user-friendly interface for generating gem certificates.
+- To ensure certificates are formatted professionally with all necessary details.
+- To enable saving and printing of certificates in an efficient manner. 
+
+## Scope
+
+GemInsight is an innovative Java Swing Desktop Application is a desktop-based software
+solution that helps streamline the process of generating, managing and distributing
+reports to the client, providing a complete report on gem value assessment, type, color,
+weight and it gem or not. This website performs the actions of registering the
+information of the client who comes with a gem and getting the report of the gem. Here
+the client will be sent a text message after registering himself and after completing the
+report. An administrator also uses the web portal in order to administer the system and
+keep the information accurate.
+
+## Deliverables
+
+- Java Swing application for gem certificate generation, along with a user manual and
+comprehensive project documentation.
+
+## Assumptions and Constraints
+- Assumes users have basic computer operation knowledge.
+- The application must be compatible with Windows.
+
+## Requirements Specification
+
+ ### Functional Requirements
+▪ Register Customer
+ - Who is use our system we can call register customers.
+▪ Create Gem Order
+ - We can create gem order to our clients. Manly gem order can place
+cashiers.
+▪ Create Lab Report
+ - Lab report can create lab supervisor manly generation gem report
+▪ Generate Certificate
+ - Certificate include gem details
+▪ Register Users
+ - Who work with this system we can call register users (cashiers, lab
+reporter, lab supervisor)
+
+▪ Collect Payments
+ - We are providing 2 payment facility. Full payment & advance
+payment 
+
+### Non-Functional Requirements
+▪ Login
+ - We are creating multiple login option create this system
+▪ Reports
+ - Have many of report we were create in this project payment report ,
+client report, gem report.
+▪ Security
+- We create best security option to our system like regax,condition
+checking
+
+
 ## Key Features
 
 - **Comprehensive Inventory Management:** Track and manage your gemstone inventory efficiently.
@@ -112,3 +169,7 @@ Here's a list of potential scenarios for activity diagrams in the Geminsight sys
 12. **Certificate Authentication Process:**
    - Customer scans the QR code on the certificate to verify its authenticity.
    - System validates the certificate and displays its details to the customer.
+
+   ## Project Management
+### Project Timeline
+![Userregister](img/ProjectTimeline.png)
