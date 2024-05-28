@@ -40,11 +40,11 @@ export default {
         text: "Main Activities",
         collapsible: false,
         items: [
-          { text: "Login", link: "/CustomerRegistration" },
+          { text: "Login", link: "/login" },
           { text: "Customer Registration", link: "/CustomerRegistration" },
-          { text: "Create Gem Order", link: "/CustomerRegistration" },
-          { text: "Create Lab Report", link: "/CustomerRegistration" },
-          { text: "Generate Certificate", link: "/CustomerRegistration" },
+          { text: "Create Gem Order", link: "/" },
+          { text: "Create Lab Report", link: "/" },
+          { text: "Generate Certificate", link: "/" },
          
         ],
       },
@@ -54,8 +54,8 @@ export default {
         items: [
           { text: "Introduction", link: "/introduction" },
           { text: "Getting Started", link: "/gettingstarted" },
-          { text: "Complete Pending Payment", link: "/CustomerRegistration" },
-          { text: "Reports & Analytics", link: "/CustomerRegistration" },
+          { text: "Complete Pending Payment", link: "/" },
+          { text: "Reports & Analytics", link: "/" },
           { text: "Settings", link: "/orders" },
         ],
       },
