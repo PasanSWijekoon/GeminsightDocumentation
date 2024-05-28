@@ -42,11 +42,18 @@ The side panel menu dynamically adjusts to display options based on the user's r
 
 #### Dark Theme Interface
 
-![Userregister](img/GUI/DarkThemeLogin.png)
+![Userregister](img/GUI/Screenshot%20(1183).png)
 
-#### Error Handling
+#### Side Panel For Admin
 
-Handle Blocked User In the system
+![Userregister](img/GUI/Screenshot%20(1184).png)
 
-![Userregister](img/GUI/LoginMessage.png)
+#### How Side Panel Works When We In Another Form
+
+![Userregister](img/GUI/Screenshot%20(1185).png)
+
+#### Side Panel For Lab
+
+![Userregister](img/GUI/Screenshot%20(1187).png)
+
 
