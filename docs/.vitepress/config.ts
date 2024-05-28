@@ -53,7 +53,7 @@ export default {
         text: "Other Activities",
         collapsible: true,
         items: [
-          { text: "Introduction", link: "/introduction" },
+          { text: "User Registration", link: "/userregister" },
           { text: "Getting Started", link: "/gettingstarted" },
           { text: "Complete Pending Payment", link: "/" },
           { text: "Reports & Analytics", link: "/" },
