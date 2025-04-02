@@ -269,7 +269,7 @@ private void SelectCustomer() {
 ![gem-orders-light](https://github.com/PasanSWijekoon/GeminsightDocumentation/blob/main/docs/img/gemorders-light.png?raw=true)
 
 ### Invoice
-![gem-orders-light]([https://github.com/PasanSWijekoon/GeminsightDocumentation/blob/main/docs/img/gemorders-light.png?raw=true](https://i.imgur.com/npuTATz.jpeg))
+![gem-orders-light](https://i.imgur.com/npuTATz.jpeg)
 
 
 
