@@ -53,7 +53,7 @@ export default {
         text: "Other Activities",
         collapsible: true,
         items: [
-          { text: "ScreenShots", link: "/screenshots" },
+          { text: "Screenshots", link: "/screenshots" },
         ],
       },
     ],
