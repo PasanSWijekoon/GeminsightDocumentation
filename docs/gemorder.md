@@ -266,7 +266,7 @@ private void SelectCustomer() {
 ## GUI
 
 ### Light Theme Interface
-![gem-orders-light](/gemorders-light.png)
+![gem-orders-light](https://github.com/PasanSWijekoon/GeminsightDocumentation/blob/main/docs/img/gemorders-light.png?raw=true)
 
 
 
