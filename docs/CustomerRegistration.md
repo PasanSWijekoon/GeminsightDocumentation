@@ -2,7 +2,7 @@
 sidebar: auto
 ---
 
-# Customer LOgin
+# Customer Login
 
 ## Description
 
